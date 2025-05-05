@@ -1,0 +1,8 @@
+langgraph==0.2.60
+langchain-community==0.3.14
+langchain_openai==0.2.14
+langchain-core==0.3.29
+pandas==2.2.3
+python-dotenv==1.0.1
+pydantic==2.10.4
+gradio===5.9.1
